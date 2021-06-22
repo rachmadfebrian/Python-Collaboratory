@@ -1,2 +1,2 @@
 # Python-Collaboratory
-code python
+Python Project
